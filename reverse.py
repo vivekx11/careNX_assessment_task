@@ -1,3 +1,4 @@
+# reverse the string
 text = "Hello"
 reversed_text = ""
 
